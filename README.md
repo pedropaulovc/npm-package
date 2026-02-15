@@ -16,6 +16,10 @@ npm install PACKAGE_NAME
 import type { Example } from 'PACKAGE_NAME';
 ```
 
+## Versioning
+
+This project follows [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html). See [CHANGELOG.md](CHANGELOG.md) for release history.
+
 ## Contributing
 
 See [AGENTS.md](AGENTS.md) for publishing instructions and project conventions.

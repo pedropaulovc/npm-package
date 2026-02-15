@@ -33,6 +33,8 @@ a GitHub Release from the CHANGELOG entry, and publishes to npm with provenance.
 
 ### Version Semantics
 
+This project follows [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html).
+
 - **Patch**: JSDoc improvements, adding optional fields, fixing comments
 - **Minor**: New types, new union members
 - **Major**: Removing or renaming exported types, changing required fields
