@@ -1,0 +1,24 @@
+{
+  "name": "PACKAGE_NAME",
+  "version": "0.1.0",
+  "description": "",
+  "types": "./index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "tsx test/smoke.test.ts"
+  },
+  "keywords": [],
+  "author": "Pedro Paulo Vezza Campos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedropaulovc/PACKAGE_NAME.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.7.0"
+  }
+}
